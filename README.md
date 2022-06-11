@@ -1,6 +1,6 @@
 # JS-Traversty
 
-## This repo contains a JavaScript coding tutorial that I completed. 
+## This repo contains a JavaScript coding tutorial that I completed 
 
 ## Tutorial by Traversty Media 
 
